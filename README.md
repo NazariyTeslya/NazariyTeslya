@@ -7,10 +7,11 @@
 ## 🎯 Chi Sono
 Sono uno sviluppatore full stack appassionato di tecnologie web moderne, in particolare **Angular** e **TypeScript**. Amo imparare nuove tecnologie e contribuire a progetti interessanti. Attualmente mi sto specializzando in sviluppo frontend e backend con tecnologie JavaScript moderne.
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NazariyTeslya&theme=dark&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NazariyTeslya&theme=dark&layout=compact)
+## 📊 GitHub Highlights
+- **Total Contributions**: 2,588+
+- **Current Streak**: 5 giorni 🔥
+- **Longest Streak**: 55 giorni 
+- **Repositories**: 5+ progetti pubblici
 
 ## 🛠️ Tech Stack
 
@@ -49,10 +50,14 @@ Sono uno sviluppatore full stack appassionato di tecnologie web moderne, in part
 - 🏗️ **Architetture Software**: Design Patterns, Clean Code
 - 📚 **Continuous Learning**: Sempre alla ricerca di nuove tecnologie
 
-## 📈 Statistiche
-- **Linguaggi Principali**: TypeScript, JavaScript, Java, HTML
-- **Specializzazione**: Full Stack Web Development
-- **Focus Attuale**: Angular Framework, JavaScript moderno
+## 📈 Competenze Principali
+| Skill | Livello |
+|-------|--------|
+| TypeScript | ⭐⭐⭐⭐⭐ |
+| Angular | ⭐⭐⭐⭐⭐ |
+| JavaScript | ⭐⭐⭐⭐⭐ |
+| Java | ⭐⭐⭐⭐ |
+| HTML & CSS | ⭐⭐⭐⭐⭐ |
 
 ## 💡 Cosa Sto Imparando
 - Approfondimento di **Angular** e applicazioni enterprise
@@ -65,8 +70,8 @@ Sono sempre interessato a collaborare su progetti interessanti. Se hai un'idea o
 
 ## 📫 Contatti & Social
 - 💼 [GitHub](https://github.com/NazariyTeslya)
+- 📧 **Email**: nazariy.teslya@marconirovereto.it
 - 🔗 [LinkedIn](https://linkedin.com) *(aggiorna se hai)*
-- 📧 **Email**: *aggiungi qui la tua email*
 
 ---
 
@@ -83,6 +88,6 @@ Sono sempre interessato a collaborare su progetti interessanti. Se hai un'idea o
 
 **⭐ Se ti piace quello che faccio, non dimenticare di lasciare una stella! ⭐**
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=NazariyTeslya&icon=0&color=0)](https://visitcount.itsvg.in)
+Made with ❤️ by Nazariy Teslya
 
 </div>
